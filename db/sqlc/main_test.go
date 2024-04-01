@@ -6,6 +6,7 @@ import (
 	"os"
 	"testing"
 
+	"github.com/Joaquin-Niembro/simplebank/util"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 
